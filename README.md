@@ -11,7 +11,7 @@ Top markets of oppotunity for a growing real estate company.
 4. Recommendations
 
 ### Project Background
-Glo Real Estate is a growing real estate company that's just gone national. They operate in 50 markets with 1,000 agents across the nation. When a house sells, the selling agent earns 2% of the home's value and Glo Real Estate earns 1% of the home's value. 
+Glo Real Estate is a growing real estate company that's just gone national. They operate in 50 markets with 1,000 agents across the nation. When a house sells, Glo Real Estate earns 1% of the home's value as revenue.
 
 The marketing manager has asked for an analysis to identify the 5 best markets for Glo Real Estate. They've provided data on 14,000 transactions and 50,000 cusotmers from 2025 and are hoping to better understand the company's performance in these markets. The marketing team will use these insights to shape their marketing strategy for 2026 with the specific goal of increasing the company's revenue from its 2025 revenue of $69M.
 
@@ -28,7 +28,7 @@ Of the 50 markets sampled, Glo Real Estate performs well in 9 markets based on r
 #### Overview of Findings
 Glo's top 5 markets are those that have the highest demand, which is indicated by 3 key factors: 
 * **Percent of homes that saw a pricing increase in the last 30 days.** In each market, 0 to 9% of homes on the market had a listing price increase. Markets with a higher percentage were ranked higher.
-* * **Median days on market (DOM):** Markets saw a range of 12 days to 92 days on the market. Markets with a lower DOM were rnaked higher.
+* **Median days on market (DOM):** Markets saw a range of 12 days to 92 days on the market. Markets with a lower DOM were rnaked higher.
 * **Avg percent increase in closing price vs listing price:** Closing prices in each market ranged from 10% below the list price to 16% above hte list price. Markets with a higher percent increase were ranked higher.
 
 After creating a market rating for each of our markets, we then compared our sales data against the strongest-performing markets (60th percentile and up), looking at 2 key factors: 
