@@ -23,7 +23,7 @@ Links:
 ### Data Collection
 
 ### Executive Summary
-Of the 50 markets sampled, Glo Real Estate performs well in 9 markets based on recent pricing increase trends, median days on market (DOM), and closing price vs listing price. **Glo Real Estate holds at least 12% of market share in 3 of these markets.** If our marketing team can **concentrate on increasing market share in 6 key cities**, we've identified a potential revenue increase from **$69M in 2025** to **$94M in 2026.** 
+Of the 50 markets sampled, Glo Real Estate performs well in 9 markets based on recent pricing increase trends, median days on market (DOM), and closing price vs listing price. **Glo Real Estate holds at least 12% of market share in 3 of these markets.** If our marketing team can **concentrate on increasing market share in 6 key cities**, we've identified a potential revenue increase from **$69M in 2025** to **$94M in 2026,** before factoring in organic growth in these markets YoY.
 
 #### Overview of Findings
 Glo's top 5 markets are those that have the highest demand, which is indicated by 3 key factors: 
