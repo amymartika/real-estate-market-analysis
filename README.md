@@ -1,5 +1,5 @@
 # Real Estate Market Analysis
-Top marktes of oppotunity for a growing real estate company. 
+Top markets of oppotunity for a growing real estate company. 
 
 * **Tools:** SQL (MySQL & Workbench)
 
